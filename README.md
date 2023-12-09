@@ -1,5 +1,4 @@
-# Stargate - Composable Native Asset Bridge
-
+## Stargate - Composable Native Asset Bridge
 Stargate is a **composable** native asset bridge with **unified liquidity**  and **instant guaranteed finality**  built on top of the LayerZero protocol. The repository contains the smart contracts of the core protocol for stargate.
 
 
